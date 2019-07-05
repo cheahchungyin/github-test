@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "<p>This is javascript text</p>";
