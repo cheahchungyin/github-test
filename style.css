@@ -1,5 +1,10 @@
 h1 {
   color: blue;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: royalblue;
 }
 
 p {
